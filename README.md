@@ -1,2 +1,2 @@
-+# cafemamba
- +REST API for Cafe Mamba
+# cafemamba
+REST API for Cafe Mamba
