@@ -32,7 +32,7 @@ catch (e){
 
 server.listen(app.get('port'), function () {
   var port = server.address().port;
-  console.log('Server lisening to port ' + port);
+  console.log('Server running on port: '+ port);
 });
 
 /* -----------Server code ends--------------- */

@@ -13,9 +13,14 @@ var drinksSchema = new mongoose.Schema({
     required: true
   },
   startDate: {
-    type: String
+    type: String,
+    required: true
   },
   endDate: {
+    type: String,
+    required: true
+  },
+  contents: {
     type: String
   }
 });
