@@ -5,10 +5,12 @@ REST API for Cafe Mamba
 > Local Install
 * Clone the Repo
 * cd to cafemamba directory
-* run ```sh
+* run
+```sh
 npm install
 ```
-* run ```sh
+* run 
+```sh
 npm start
 ```
 
